@@ -13,13 +13,26 @@ A modern Flutter application for managing users and their posts with a clean, in
 
 ## 🎥 Demo
 
-[Screen Recording Placeholder]
-*Add a screen recording demonstrating the app's main features*
+[Screen_Recording.webm](https://github.com/user-attachments/assets/fe411d88-5167-46ca-9b54-b87b997cf1d3)
+
 
 ## 📸 Screenshots
 
-[App Screenshots Placeholder]
-*Add screenshots of the main screens:*
+![Screenshot_1748837973](https://github.com/user-attachments/assets/aea0c598-7edf-4e82-ba9e-aeb05d67d487)
+
+![Screenshot_1748837970](https://github.com/user-attachments/assets/e8665cc7-95a3-4833-bccc-5e77c0a51e9f)
+
+![Screenshot_1748837948](https://github.com/user-attachments/assets/0470c16f-0a9c-42e7-b7ea-90f71d8ec1c9)
+
+![Screenshot_1748837946](https://github.com/user-attachments/assets/fed9946b-f140-4796-8dc7-8dc95a134ac5)
+
+![Screenshot_1748837944](https://github.com/user-attachments/assets/5520cd2f-5264-47da-a921-776e45fb7ae1)
+
+![Screenshot_1748837983](https://github.com/user-attachments/assets/c947b39e-042c-4286-a03a-4bbd2a0b1293)
+
+![Screenshot_1748837981](https://github.com/user-attachments/assets/3f90cf75-ac97-4657-96d0-d192fb0d66ec)
+
+
 - User List Screen
 - User Detail Screen
 - Create Post Screen
