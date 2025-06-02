@@ -30,9 +30,7 @@ A modern Flutter application for managing users and their posts with a clean, in
   <img src="https://github.com/user-attachments/assets/c947b39e-042c-4286-a03a-4bbd2a0b1293" width="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3f90cf75-ac97-4657-96d0-d192fb0d66ec" width="200"/>
-</p>
+
 
 
 - User List Screen
